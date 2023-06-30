@@ -36,6 +36,7 @@ $(function () {
     $('.product_slide').slick({
         slidesToShow: 2,
         arrows: false,
+        autoplay: true,
     });
 
 
